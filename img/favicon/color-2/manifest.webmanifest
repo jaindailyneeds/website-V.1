@@ -1,0 +1,11 @@
+{
+  "name": "Jain Daily Needs - Coming Soon Template",
+  "short_name": "Jain Daily Needs",
+  "icons": [
+    { "src": "themeforest/Jain Daily Needs/img/favicon/color-2/android-icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "themeforest/Jain Daily Needs/img/favicon/color-2/android-icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#efefef",
+  "background_color": "#efefef",
+  "display": "standalone"
+}
